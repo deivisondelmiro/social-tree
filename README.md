@@ -2,4 +2,4 @@
 
 Aplicação do desafio do Discover da Rocketseat
 
-Link: <https://deivisondelmiro.github.io/social-tree/>
+Link: <a href="https://deivisondelmiro.github.io/social-tree/" target="_blank">[Social Tree]</a>
