@@ -11,7 +11,7 @@
 
 ## 📖 Sobre o Projeto
 
-Desafio de desenvilvimento da aplicação do [Discover](https://app.rocketseat.com.br/discover) da [Rocketseat](https://www.rocketseat.com.br/).
+Desafio de desenvolvimento da aplicação do [Discover](https://app.rocketseat.com.br/discover) da [Rocketseat](https://www.rocketseat.com.br/).
 Que tem como objetivo, ter uma área que agrupe os links das principais redes sociais do usúario e sua foto de perfil.
 
 ## 👨‍💻 Acesso ao Projeto
