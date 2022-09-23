@@ -10,6 +10,7 @@
     --body-background-color: #e4d5a9;
 
     --pricipal-color: #746852;
+    --secondary-color: #ffffff25;
 
     --principal-font: 'Poppins', sans-serif;
 }
@@ -45,6 +46,11 @@ img#profilePhoto {
     padding: 3.5px;
 
     justify-content: center;
+    transition: transform .3s;
+}
+
+img#profilePhoto:hover {
+    transform: scale(1.1);
 }
 
 a {
@@ -72,6 +78,12 @@ ul#listaLinks li {
 
     padding: 12px 0 13px 0;
     margin-bottom: 16px;
+    transition: transform .3s;
+}
+
+ul#listaLinks li:hover {
+    transform: scale(1.02);
+    background-color: var(--secondary-color);
 }
 
 /* (Configurações para quando os ícones das redes sociais ficarem abaixar da lista não ordenada) 
@@ -96,7 +108,7 @@ svg path {
     stroke: var(--pricipal-color);
 }
 
-svg#whatsapp path {
+svg#email path {
     stroke: var(--pricipal-color);
     stroke-width: .1px;
     fill: var(--pricipal-color);
